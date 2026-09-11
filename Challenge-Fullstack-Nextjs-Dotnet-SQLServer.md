@@ -3,6 +3,7 @@
 ## React/Next.js, C#/.NET e SQL Server
 
 ### Objetivo
+#### Crie uma branch com seu nome e realize os commtis na sua branch.
 
 Desenvolver uma aplicação web para registrar, acompanhar e concluir solicitações internas. O desafio busca avaliar domínio da stack, organização do código, modelagem de dados, decisões técnicas e capacidade de explicar a solução.
 
